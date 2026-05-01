@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raj 
 - 👀 I’m interested in learning new technologies, fitness, sports, photography, biking, gardening, beaches, sky watching...
 - 🌱 I’m currently learning GraphQL using Node and .Net
-- 💞️ I’m looking to collaborate on Cloud technologies
+- 💞️ I’m looking to collaborate on Cloud technologies & Agentic AI
 - 📫 How to reach me : https://www.linkedin.com/in/rajarajacholan-krishnamurthy-05b29313/
 
 <!---
